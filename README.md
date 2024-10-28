@@ -11,3 +11,5 @@ I will switch to a language I am more familiar with, the project is 50% progress
 https://phantasystaronline.cn:89
 
 An close-source Phantasy Star Online Game server for Ecplise
+
+http://sanc.top:3000/ new git code web，never use github anymore
